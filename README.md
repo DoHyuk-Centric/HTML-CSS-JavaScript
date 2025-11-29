@@ -1,3 +1,2 @@
-<div align="center">✨ Alone Studies of Stack / Ability ✨
-HTML · CSS · JavaScript
-</div> <div align="center"> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner5.svg">
+<div align="center">🎨 Tech Stack</div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=html" width="65"/> <img src="https://skillicons.dev/icons?i=css" width="65"/> <img src="https://skillicons.dev/icons?i=js" width="65"/> </div>
